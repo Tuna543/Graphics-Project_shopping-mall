@@ -1,0 +1,107 @@
+﻿  main.cpp
+E:\Texture Mapping Student Version\walls.h(97,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\walls.h(107,19): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\walls.h(113,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\walls.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\walls.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\walls.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\floornstairs.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\floornstairs.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\floornstairs.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\swings.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\swings.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\swings.h(54,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\swings.h(54,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\swings.h(54,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(17,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(17,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(17,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(46,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(46,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(46,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(58,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(58,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\lift.h(58,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\tool.h(32,25): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\tool.h(51,25): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\tool.h(71,25): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\tool.h(89,25): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\tool.h(17,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\tool.h(17,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\tool.h(17,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\rack.h(20,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\rack.h(20,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\rack.h(24,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\rack.h(26,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\rack.h(98,31): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\rack.h(98,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\rack.h(102,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\rack.h(104,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\rack.h(105,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\rack.h(14,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\rack.h(14,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\rack.h(14,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\counter.h(13,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\counter.h(13,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\counter.h(13,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\roads.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\roads.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\roads.h(16,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\doorheader.h(16,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\doorheader.h(16,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\doorheader.h(130,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\doorheader.h(130,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\escalator.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\escalator.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\escalator.h(15,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\kidz_zone.h(15,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(15,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(15,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(39,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(121,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(121,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(354,18): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\kidz_zone.h(322,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(383,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(383,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\kidz_zone.h(383,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\sofa.h(77,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\sofa.h(131,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\sofa.h(132,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\sofa.h(11,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\sofa.h(11,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\sofa.h(11,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(49,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(49,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(100,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(100,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(150,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(150,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\table.h(150,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+E:\Texture Mapping Student Version\main.cpp(646,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(647,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(654,25): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(656,29): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(664,33): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(665,33): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(666,38): warning C4305: '-=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(667,38): warning C4305: '+=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(993,18): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(1013,26): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(1034,26): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(1038,18): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(1044,22): warning C4305: '=': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(610,101): warning C4101: 'model_door': unreferenced local variable
+E:\Texture Mapping Student Version\main.cpp(1370,15): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\Texture Mapping Student Version\main.cpp(1370,34): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\Texture Mapping Student Version\main.cpp(1370,53): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\Texture Mapping Student Version\main.cpp(1370,72): warning C4244: 'initializing': conversion from 'GLint' to 'float', possible loss of data
+E:\Texture Mapping Student Version\main.cpp(1433,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(1436,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Texture Mapping Student Version\main.cpp(1446,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\main.cpp(1452,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Texture Mapping Student Version\main.cpp(1453,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> E:\Texture Mapping Student Version\x64\Debug\Lighting.exe
